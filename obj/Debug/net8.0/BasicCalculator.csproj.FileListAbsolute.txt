@@ -1,0 +1,14 @@
+C:\Users\Kgeor\Project-J\BasicCalculator\bin\Debug\net8.0\BasicCalculator.exe
+C:\Users\Kgeor\Project-J\BasicCalculator\bin\Debug\net8.0\BasicCalculator.deps.json
+C:\Users\Kgeor\Project-J\BasicCalculator\bin\Debug\net8.0\BasicCalculator.runtimeconfig.json
+C:\Users\Kgeor\Project-J\BasicCalculator\bin\Debug\net8.0\BasicCalculator.dll
+C:\Users\Kgeor\Project-J\BasicCalculator\bin\Debug\net8.0\BasicCalculator.pdb
+C:\Users\Kgeor\Project-J\BasicCalculator\obj\Debug\net8.0\BasicCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kgeor\Project-J\BasicCalculator\obj\Debug\net8.0\BasicCalculator.AssemblyInfoInputs.cache
+C:\Users\Kgeor\Project-J\BasicCalculator\obj\Debug\net8.0\BasicCalculator.AssemblyInfo.cs
+C:\Users\Kgeor\Project-J\BasicCalculator\obj\Debug\net8.0\BasicCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Kgeor\Project-J\BasicCalculator\obj\Debug\net8.0\BasicCalculator.dll
+C:\Users\Kgeor\Project-J\BasicCalculator\obj\Debug\net8.0\refint\BasicCalculator.dll
+C:\Users\Kgeor\Project-J\BasicCalculator\obj\Debug\net8.0\BasicCalculator.pdb
+C:\Users\Kgeor\Project-J\BasicCalculator\obj\Debug\net8.0\BasicCalculator.genruntimeconfig.cache
+C:\Users\Kgeor\Project-J\BasicCalculator\obj\Debug\net8.0\ref\BasicCalculator.dll
