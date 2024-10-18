@@ -1,5 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
 
 Console.WriteLine("Enter first number to substract: ");
 int num1 = Convert.ToInt32(Console.ReadLine());
